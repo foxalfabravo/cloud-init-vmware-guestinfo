@@ -6,7 +6,7 @@
 # common
 #################################################################################
 Name:           cloud-init-vmware-guestinfo
-Version:        1.3.2
+Version:        1.4.1
 Release:        1.el7
 Summary:        A cloud-init datasource that uses VMware GuestInfo
 License:        Apache2
